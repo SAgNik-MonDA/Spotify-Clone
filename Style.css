@@ -68,9 +68,6 @@ a{
     margin-top: 0.5rem;
     padding: 0.5rem 0.75rem;
     width: 310px;
-   
-
-
 }
 .options{
     display: flex;
@@ -153,14 +150,11 @@ a{
     margin-right: 1rem;
 }
 
-
 @media (max-width:1000px){
     .hide{
         display: none;
     }
 }
-
-
 .card{
     background-color: #232323;
     width: 150px;
